@@ -1,0 +1,12 @@
+player_id,first_name,last_name,age,position,nationality,height,weight,team,salary
+1,Aurelea,Vern,31,Defender,China,161.5,75.8,Barcelona,150419.57
+2,Gibb,Painter,25,Goalkeeper,Japan,205.0,69.8,Real Madrid,809856.65
+3,Zena,Ginman,36,Defender,Saudi Arabia,171.8,79.1,Real Madrid,393347.86
+4,Lari,Gerbi,31,Midfielder,Philippines,172.0,98.1,Barcelona,947016.77
+5,Bruis,McConigal,30,Defender,Barbados,219.8,66.8,Juventus,223838.52
+6,Normie,Clotworthy,18,Midfielder,Indonesia,219.3,88.7,Real Madrid,273737.0
+7,Ari,Pridding,22,Midfielder,Ireland,158.6,70.5,Manchester United,340106.86
+8,Celestyna,Blincoe,28,Defender,Indonesia,167.5,79.2,Barcelona,441379.83
+9,Hewie,Gwyer,20,Forward,Indonesia,189.2,83.7,Juventus,495992.8
+10,Arvy,Livock,27,Goalkeeper,Sweden,166.2,65.0,Real Madrid,37821.82
+99,Berke,Tuncer,23,Striker,Turkey,187.0,100.0,Fenerbahce,999999999
